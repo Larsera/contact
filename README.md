@@ -1,1 +1,2 @@
-# contact
+# Contact
+## One-way communication
