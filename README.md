@@ -1,6 +1,11 @@
-# Contact
-Nature has given us almost all the resources we use today, but we are prone to green-stuff blindness.
-Why do we ignore this?
+# One-way communication 
+Let's start in a small scale with a single plant.
+The plant of choice will be the culinary herb Basil.
+It's easy to get hold on from a grocery store, it's easy to work with, and it's a very active and thirsty plant.
 
-## One-way communication
-Soo, this is the project... Kinda.
+## Data gathering (at the moment)
+* Soil moisture
+* Air temperature
+* Air moisture
+* Water temperature
+* Light intensity
