@@ -15,3 +15,11 @@ It's easy to get hold on from a grocery store, it's easy to work with, and it's 
 * Air moisture
 * Water temperature
 * Light intensity
+
+# Sensors in a tree
+As the experiments still are in the start phase, we need to gather basic data from the field. We choose a tree to get information from because we also want to measure swaying. It's cold outside at this time of year, and the tree might be less active. 
+
+Before we strap the sensors high up in the air, its important to test the system to get measures of the accuracy, resolution and stability. This is especially important considering this is Norway, and the winters here get really cold at night. All he equipment must be operatble in -20 centigrade, and it has to survive effective -30, taking humidity and airflow in to account. 
+
+## Swaying data 
+Harry Nyquist once told us that we need to sample at least twice the frequency of the input. As the tree is swaying with some frequency, we need to double that for our data sampeling. 
