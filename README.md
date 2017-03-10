@@ -17,9 +17,19 @@ It's easy to get hold on from a grocery store, it's easy to work with, and it's 
 * Light intensity
 
 # Sensors in a tree
-As the experiments still are in the start phase, we need to gather basic data from the field. We choose a tree to get information from because we also want to measure swaying. It's cold outside at this time of year, and the tree might be less active. 
+As the experiments are in the start phase, we need to gather basic data from the field. We choose a pine tree to get information from because we also want to measure swaying. It's cold outside at this time of year, and the tree might be less active. The posibility of 
 
 Before we strap the sensors high up in the air, its important to test the system to get measures of the accuracy, resolution and stability. This is especially important considering this is Norway, and the winters here get really cold at night. All he equipment must be operatble in -20 centigrade, and it has to survive effective -30, taking humidity and airflow in to account. 
 
-## Swaying data 
+## Hey, why not give the tree a microphone?
+So, if the goal is to get some data on the well-being of the tree, why not go the easy way? Just give the tree a microphone and listen to what it says! 
+
+## Swaying data in the wind
 Harry Nyquist once told us that we need to sample at least twice the frequency of the input. As the tree is swaying with some frequency, we need to double that for our data sampeling. 
+
+## We got power! (Maybe)
+To power the system, we need a battery. The battery need to work at the aformentioned temperature, and it needs to be small to fit inside the package. 
+We bought a Lithium-polymer cell with a capacity of 2200 mAh at 3.7 V
+
+# What does the biologists say? 
+So, we are informaticians dealing with nature. We measure and gahter data. We read up on what we can expect to find. And we try to find interisting things. But what about the biology in this? 
