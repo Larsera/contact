@@ -1,3 +1,11 @@
+# Project status
+1 Get real data from a tree
+2 Research and survey what data is interesting
+3 Deploy more sensors
+4 Evaluate data quality
+5 Process the data in accordance to the findings in 2
+
+# Project description
 As climate change and nature conservation becomes a larger part of our everyday life, we are in need of a better understanding of the processes in the nature. Sensor equipment and data communication has become both cheaper and more available in the recent years. We are in a Internet of Things revolution, and data gathering has never been easier.
 
 On the other end of the data stream from the sensors, the data needs conditioning and analysis. The multi-dimensional data can be processed by machine learning algorithms and displayed in a more understandable format. We can also create a web-experience based on real-time data from the sensors.
@@ -28,7 +36,7 @@ So, if the goal is to get some data on the well-being of the tree, why not go th
 Harry Nyquist once told us that we need to sample at least twice the frequency of the input. As the tree is swaying with some frequency, we need to double that for our data sampeling. 
 
 ## We got power! (Maybe)
-To power the system, we need a battery. The battery need to work at the aforementioned temperature, and it needs to be small enough to fit inside the package. We bought a lithium-polymer cell with a capacity of 2200 mAh at 3.7 V
+To power the system, we need a battery. The battery need to work at the aforementioned temperature, and it needs to be small enough to fit inside the package. We bought a lithium-polymer cell with a capacity of 2200 mAh at 3.7 V.
 
 # What does the biologists say? 
 So, we are informaticians dealing with nature. We measure and gather data. We read up on what we can expect to find. And we try to find interesting things. But what about the biology in this? 
