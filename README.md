@@ -1,11 +1,11 @@
 # Project status
 | Task | Status         | Description             |
 | ---- |:--------------:| -----------------------:|
-| 1 | Finished    | Get real test data from a tree
-| 2 | In progress | Research and survey what data is interesting
-| 3 | Not started | Deploy more sensors
-| 4 | Not started | Evaluate data quality
-| 5 | Not started | Process the data in accordance to the findings in 2
+| 1 | Finished    | Get real test data from a tree |
+| 2 | In progress | Research and survey what data is interesting |
+| 3 | Not started | Deploy more sensors |
+| 4 | Not started | Evaluate data quality | 
+| 5 | Not started | Process the data in accordance to the findings in 2 |
 
 # Project description
 As climate change and nature conservation becomes a larger part of our everyday life, we are in need of a better understanding of the processes in the nature. Sensor equipment and data communication has become both cheaper and more available in the recent years. We are in a Internet of Things revolution, and data gathering has never been easier.
