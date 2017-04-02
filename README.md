@@ -1,6 +1,6 @@
 # Project status
 | Task | Status         | Description             |
-| ---- |:--------------:| -----------------------|
+| :--: |:--------------:| ------------------------|
 | 1 | Finished    | Get real test data from a tree |
 | 2 | In progress | Research and survey what data is interesting |
 | 3 | Not started | Deploy more sensors |
